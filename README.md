@@ -33,7 +33,7 @@ I build data pipelines end to end: ETL workflows, data warehousing, and analytic
 
 - **ServiceNow Certified System Administrator (CSA)** — Feb 2026
 
-## 📬 Reach me
+## 📫 Reach me
 
 - Email: **yalavarthijahnavi2017@gmail.com**
 - LinkedIn: [jahnavi-yalavarthi-36a9232a4](https://www.linkedin.com/in/jahnavi-yalavarthi-36a9232a4/)
