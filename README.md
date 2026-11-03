@@ -1,5 +1,13 @@
 # Hi, I'm Jahnavi Yalavarthi 👋
 
+## Data Center Engineering
+Data Center Hardware Diagnostics | Infrastructure Automation | Linux Server Systems
+
+- 🛠️ Hands-on hardware triage with Dell PowerEdge platforms (iDRAC, System Event Logs) - university lab, 8-server cluster, not production
+- 📜 Automation scripting with Bash and Python (out-of-band management & system diagnostics, simulation / emulator based)
+- 🕸️ Network path verification, Layer 1 copper/fiber patching, and local lab simulation environments
+- 📁 Data Center Engineering Portfolio: https://github.com/Yalavarthijahnavi2017/data-center-engineering-portfolio
+
 **Data Engineer | Data Analyst** — MS Computer Science, Indiana State University (Dec 2025).
 Currently a Data Analyst at **Webster Bank** (via Franklar Technologies), working in SQL, Python, and Tableau.
 
@@ -25,7 +33,7 @@ I build data pipelines end to end: ETL workflows, data warehousing, and analytic
 
 - **ServiceNow Certified System Administrator (CSA)** — Feb 2026
 
-## 📫 Reach me
+## 📬 Reach me
 
 - Email: **yalavarthijahnavi2017@gmail.com**
 - LinkedIn: [jahnavi-yalavarthi-36a9232a4](https://www.linkedin.com/in/jahnavi-yalavarthi-36a9232a4/)
